@@ -3,4 +3,4 @@ discord
 pyngrok
 ollama
 Flask
-gotenv
+dotenv
