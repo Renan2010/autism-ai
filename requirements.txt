@@ -1,0 +1,5 @@
+discord.py
+discord
+pyngrok
+ollama
+Flask
